@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1471887172309,
+        "author": "Kyle",
+        "text": "To do list activate!"
+    },
+    {
+        "id": 1471887172310,
+        "author": "Kyle",
+        "text": "direct JSON addition!"
+    },
+    {
+        "id": 1471893851422,
+        "author": "SomeGuy",
+        "text": "I did a thing!"
+    },
+    {
+        "id": 1471893861099,
+        "author": "NewDude",
+        "text": "Wooo!"
+    },
+    {
+        "id": 1471893994974,
+        "author": "Kyle",
+        "text": "All done!"
+    }
+]
